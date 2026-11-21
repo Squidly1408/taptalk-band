@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="TapTalk app icon">
+  <title>TapTalk app icon</title>
+  <rect width="1024" height="1024" fill="#FAF7F0"/>
+  <rect x="152" y="152" width="720" height="720" rx="158.4" fill="#FFC93C" stroke="#1B3A57" stroke-width="25.2"/>
+  <rect x="252.8" y="252.8" width="226.8" height="226.8" rx="54" fill="#FAF7F0" stroke="#1B3A57" stroke-width="15.84"/>
+  <circle cx="366.2" cy="366.2" r="25.2" fill="#1B3A57"/>
+  <rect x="252.8" y="544.4" width="226.8" height="226.8" rx="54" fill="#FAF7F0" stroke="#1B3A57" stroke-width="15.84"/>
+  <circle cx="366.2" cy="657.8" r="25.2" fill="#1B3A57"/>
+  <rect x="544.4" y="544.4" width="226.8" height="226.8" rx="54" fill="#FAF7F0" stroke="#1B3A57" stroke-width="15.84"/>
+  <circle cx="657.8" cy="657.8" r="25.2" fill="#1B3A57"/>
+  <path d="M598.4 252.8H717.2Q771.2 252.8 771.2 306.8V384.78Q771.2 438.78 717.2 438.78H646.46L571.62 497.74L594.3 438.78H598.4Q544.4 438.78 544.4 384.78V306.8Q544.4 252.8 598.4 252.8Z" fill="#2BB3A3"/>
+</svg>

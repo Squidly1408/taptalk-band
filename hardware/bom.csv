@@ -1,0 +1,17 @@
+item,part_choice,qty,est_unit_cost_usd_at_1000,notes
+E-ink panel,1.54in 200x200 black/white e-paper (SSD1681-class controller),1,5.00,Qualify two suppliers with the same footprint
+Microcontroller module,ESP32-S3 pre-certified module with 16 MB flash + passives,1,4.00,LCSC listing ~US$2.14 for bare chip at 1k; module saves radio certification cost
+Enclosure,Welded PC/ABS or GF-nylon shell + silicone overmould + keymat + clear caps + window,1,3.60,Estimate; needs moulder quote
+Main PCB,4-layer board fabrication and assembly,1,2.50,Estimate
+Audio,MAX98357A-class I2S amp + IP68 sealed micro speaker,1,2.10,Estimate
+Wireless charging,Qi-compatible receiver IC + 20 mm coil + ferrite shield + alignment magnets,1,2.00,Estimate; ~2.5 W
+Assembly and test,Final assembly + functional test + packaging,1,2.00,Estimate
+Battery,350 mAh protected LiPo pouch with NTC,1,1.80,Supplier must hold IEC 62133-2 and UN 38.3 reports
+Switches,Flex ring with 5 metal-dome switches,1,0.80,Estimate
+Band,Elastic hook-and-loop strap,1,0.80,Estimate; S and L sizes
+Power management,Charger IC with ship mode + protection + ESD,1,0.70,Estimate
+Encapsulation,Soft silicone gel potting,1,0.40,Estimate
+Haptics,Coin vibration motor + transistor driver,1,0.40,Estimate
+TOTAL,,,26.10,
+Accessory: charging puck,Single-band Qi-compatible pad with alignment magnet,1,3.00,Sold separately; any Qi pad also works
+Accessory: class tray,10-band charging tray,1,25.00,Sold separately

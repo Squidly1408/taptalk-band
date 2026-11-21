@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "name": "Default",
+  "layout": "grid4",
+  "settings": {
+    "volume": 70,
+    "vibrate_only": false,
+    "page_lock": null,
+    "repeat_guard_ms": 600,
+    "idle_text": ""
+  },
+  "pages": [
+    {
+      "id": "core",
+      "title": "Core",
+      "buttons": [
+        {
+          "id": "help",
+          "label": "Help",
+          "image": "img/core_help.bin"
+        },
+        {
+          "id": "stop",
+          "label": "Stop",
+          "image": "img/core_stop.bin"
+        },
+        {
+          "id": "my_turn",
+          "label": "My turn",
+          "image": "img/core_my_turn.bin"
+        },
+        {
+          "id": "toilet",
+          "label": "Toilet",
+          "image": "img/core_toilet.bin"
+        }
+      ]
+    },
+    {
+      "id": "play",
+      "title": "Play",
+      "buttons": [
+        {
+          "id": "go",
+          "label": "Go",
+          "image": "img/play_go.bin"
+        },
+        {
+          "id": "again",
+          "label": "Again",
+          "image": "img/play_again.bin"
+        },
+        {
+          "id": "want",
+          "label": "Want",
+          "image": "img/play_want.bin"
+        },
+        {
+          "id": "finished",
+          "label": "Finished",
+          "image": "img/play_finished.bin"
+        }
+      ]
+    },
+    {
+      "id": "feelings",
+      "title": "Feelings",
+      "buttons": [
+        {
+          "id": "happy",
+          "label": "Happy",
+          "image": "img/feelings_happy.bin"
+        },
+        {
+          "id": "sad",
+          "label": "Sad",
+          "image": "img/feelings_sad.bin"
+        },
+        {
+          "id": "angry",
+          "label": "Angry",
+          "image": "img/feelings_angry.bin"
+        },
+        {
+          "id": "hurt",
+          "label": "Hurt",
+          "image": "img/feelings_hurt.bin"
+        }
+      ]
+    },
+    {
+      "id": "needs",
+      "title": "Needs",
+      "buttons": [
+        {
+          "id": "drink",
+          "label": "Drink",
+          "image": "img/needs_drink.bin"
+        },
+        {
+          "id": "eat",
+          "label": "Eat",
+          "image": "img/needs_eat.bin"
+        },
+        {
+          "id": "break",
+          "label": "Break",
+          "image": "img/needs_break.bin"
+        },
+        {
+          "id": "hug",
+          "label": "Hug",
+          "image": "img/needs_hug.bin"
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "title": "Answer",
+      "buttons": [
+        {
+          "id": "yes",
+          "label": "Yes",
+          "image": "img/answer_yes.bin"
+        },
+        {
+          "id": "no",
+          "label": "No",
+          "image": "img/answer_no.bin"
+        },
+        {
+          "id": "don_t_know",
+          "label": "Don't know",
+          "image": "img/answer_don_t_know.bin"
+        },
+        {
+          "id": "more",
+          "label": "More",
+          "image": "img/answer_more.bin"
+        }
+      ]
+    }
+  ]
+}

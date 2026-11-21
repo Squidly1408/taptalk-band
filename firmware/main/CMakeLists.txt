@@ -1,0 +1,26 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "buttons.c"
+        "display.c"
+        "ui.c"
+        "board_store.c"
+        "ble_service.c"
+        "audio.c"
+        "haptics.c"
+        "power.c"
+        "crc32.c"
+    INCLUDE_DIRS "."
+    PRIV_REQUIRES
+        bt
+        nvs_flash
+        fatfs
+        wear_levelling
+        json
+        app_update
+        esp_timer
+        esp_adc
+        esp_driver_gpio
+        esp_driver_spi
+        esp_driver_i2s
+)
